@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zombie-Game</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #222;
+      color: #eee;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      flex-direction: column;
+    }
+
+    #game-log {
+      background: #c14b4b;
+      padding: 15px;
+      width: 400px;
+      height: 300px;
+      overflow-y: auto;
+      border-radius: 8px;
+      border: 2px solid #555;
+      box-sizing: border-box;
+    }
+
+    #game-log p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Zombie Wars</h1>
+  <div id="game-log"></div>
+  <script src="zombie-game.js"></script>
+</body>
+
+</html>
