@@ -48,4 +48,4 @@ Good luck out there, survivor! And remember — aim for the head! 🎯
 
 ---
 
-*Created by a fearless coder ready to take on the apocalypse.* 💻🧟‍♀️
+Created by farida faqiri💻🧟‍♀️
